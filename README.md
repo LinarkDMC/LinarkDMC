@@ -1,16 +1,26 @@
-## Hi there 👋
+<img src="banner.gif?raw=true" width="100%">
 
-<!--
-**LinarkDMC/LinarkDMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I am Linark, a little person who likes to tinker with technology
 
-Here are some ideas to get you started:
+```yaml
+name: Linark
+activity: True
+hobbies:
+  - Computing
+  - Music
+  - Video games
+os:
+  Kernel: Linux
+  flavor: Fedora
+langs:
+  fav: Python
+server:
+  host: localhost
+  port: 8080
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LinarkDMC)
+[![Signal](https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white)](https://signal.me/#eu/https://signal.me/#eu/i3Cuf9AGYN0_wyf3B8gYekvcxyBfNXULxO8Q9k0344MyLNlCy29AZawVhsOsEZJg)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AramisuDVLP)
+##
+MDKT lover
