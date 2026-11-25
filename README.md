@@ -3,20 +3,21 @@
 Hello! I am Linark, a little person who likes to tinker with technology
 
 ```yaml
-name: Linark
-activity: True
-hobbies:
+services:
+ name: Linark
+ activity: True
+ hobbies:
   - Computing
   - Music
   - Video games
-os:
+ os:
   Kernel: Linux
   flavor: Fedora
-langs:
-  fav: Python
-server:
-  host: localhost
-  port: 8080
+ langs:
+    fav: Python
+ server:
+    host: localhost
+    port: 8080
 ```
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LinarkDMC)
